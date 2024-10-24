@@ -1,5 +1,5 @@
 {
-  "name": "sudoku_solver_js",
+  "name": "@crystalbluewings/sudoku_solver_js",
   "version": "1.1.0",
   "description": "A Sudoku solver library created for educational purposes.",
   "type": "module",
@@ -43,6 +43,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/CrystalBlueWings/Sudoku_Solver"
+    "url": "git+https://github.com/CrystalBlueWings/Sudoku_Solver.git"
   }
 }
