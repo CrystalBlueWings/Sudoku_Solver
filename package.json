@@ -16,6 +16,9 @@
   },
   "author": "Lilia Zeleskov <lz222ea@student.lnu.se>",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@babel/preset-env": "^7.25.9",
     "@lnu/eslint-config": "^1.1.10",
